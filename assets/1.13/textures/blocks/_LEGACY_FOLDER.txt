@@ -1,0 +1,3 @@
+TEXTURES FOR MODELS CREATED BEFORE 1.13
+
+due to changes in textures and models naming in 1.13 release.
